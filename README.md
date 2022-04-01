@@ -40,7 +40,7 @@ Instructions for installing the OS-Agent can be found [here](https://github.com/
 Step 4: Install the Home Assisistant Supervised Debian Package:
 
 ```bash
-wget https://github.com/home-assistant/supervised-installer/releases/latest/download/homeassistant-supervised.deb
+wget https://github.com/2468171796/supervised-installer/releases/latest/download/homeassistant-supervised.deb
 dpkg -i homeassistant-supervised.deb
 ```
 
